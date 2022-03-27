@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="homeawal" type="id">homeawal</item>
+    <item name="tmpilNama" type="id">tampilNama</item>
+    <item name="task" type="id">task</item>
+    <item name="loginscc" type="id">loginscc</item>
+    <item name="inputmatkul" type="id">inputmatkul</item>
+    <item name="deadline" type="id">deadline</item>
+    <item name="waktu" type="id">waktu</item>
+    <item name="fabSimpan" type="id">fabSimpan</item>
+    <item name="btRgst" type="id">btnRegist</item>
+    <item name="inputemail" type="id">inputemail</item>
+</resources>
